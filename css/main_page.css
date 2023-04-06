@@ -1,22 +1,22 @@
 body{
-    text-align: center; 
-    background-color: #348AC7;
+      text-align: center; 
+      background-image: url("janko-ferlic-sfL_QOnmy00-unsplash.jpg") ; 
+      background-size: cover; 
+
 }
 
 .main_user_block{
-    max-width: 500px;
-    background-color: #26D0CE;
+  max-width: 500px;
    
-
-    padding: 10px;
-    border-style: groove;
-    color: #cfcfd1;
-    width: 20%;
-    height: 30%;
-    text-align: center;
-    display: inline-block;
-    margin:auto;
-    border-radius: 5px;
+  padding: 10px;
+  border-style: groove;
+  color: #DDD6F3;
+  width: 20%;
+  height: 30%;
+  text-align: center;
+  display: inline-block;
+  margin:auto;
+  border-radius: 5px; 
 }
 #portal{
   font-size:300%;
