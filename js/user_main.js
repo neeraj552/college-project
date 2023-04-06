@@ -1,13 +1,12 @@
-$(document).ready(function() {
-
+$(document).ready(function() { 
     var firebaseConfig = {
-    apiKey: "AIzaSyBin1evT-H6jfR49WIhtVPsGMLzbEklIQY",
-    authDomain: "library-management-syste-f2a85.firebaseapp.com",
-    databaseURL: "https://library-management-syste-f2a85.firebaseio.com",
-    projectId: "library-management-syste-f2a85",
-    storageBucket: "library-management-syste-f2a85.appspot.com",
-    messagingSenderId: "914416876417",
-    appId: "1:914416876417:web:bf9e7762c1c283ba"
+    apiKey: "AIzaSyAodQ03hyADCud-M2lMnSDYMHOKVdjbhR0",
+    authDomain: "library-mangement-system-ff912.firebaseapp.com",
+    databaseURL: "https://library-mangement-system-ff912-default-rtdb.firebaseio.com",
+    projectId: "library-mangement-system-ff912",
+    storageBucket: "library-mangement-system-ff912.appspot.com",
+    messagingSenderId: "851339577267",
+    appId: "1:851339577267:web:c020adb61682c4cbe6edc6"
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);

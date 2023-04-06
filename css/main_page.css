@@ -1,11 +1,13 @@
 body{
-    text-align: center;
-
+    text-align: center; 
+    background-color: #348AC7;
 }
 
 .main_user_block{
     max-width: 500px;
-    background: white;
+    background-color: #26D0CE;
+   
+
     padding: 10px;
     border-style: groove;
     color: #cfcfd1;
